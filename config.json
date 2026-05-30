@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperserify",
+        "uuid": 1802048,
+        "checksum": "r8yflj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
